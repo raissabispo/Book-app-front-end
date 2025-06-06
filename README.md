@@ -1,10 +1,4 @@
-Claro! Aqui estão dois arquivos `README.md` — um para o **front-end React Native (Expo)** e outro para o **back-end Express com MongoDB**.
 
----
-
-## 📱 `README.md` do Front-End (React Native com Expo)
-
-````markdown
 # 📚 Book App - Frontend
 
 Este é o frontend mobile do Book App, desenvolvido em **React Native com Expo**. O app permite:
