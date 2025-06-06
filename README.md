@@ -49,9 +49,6 @@ npx expo start
 ```bash
 npx expo install react-dom react-native-web @expo/metro-runtime
 
-
----
-
 ## 📡 Backend
 
 Certifique-se de que o backend (Express + MongoDB) esteja rodando na porta 3000.
