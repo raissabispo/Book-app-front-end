@@ -30,7 +30,7 @@ Este é o frontend mobile do Book App, desenvolvido em **React Native com Expo**
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/raissabispo/book-app.git
+git clone https://github.com/raissabispo/book-app-frontend.git
 cd book-app/front-end
 ````
 
